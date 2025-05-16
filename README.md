@@ -1,4 +1,4 @@
-# CS 442 MP3: Yahtzee
+# Yahtzee
 
 ## 1. Overview
 

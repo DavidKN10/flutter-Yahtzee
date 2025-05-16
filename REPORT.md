@@ -2,8 +2,8 @@
 
 ## Team
 
-- Name: Your Name
-- AID: A12345678
+- Name: 
+- AID: 
 
 ## Self-Evaluation Checklist
 
